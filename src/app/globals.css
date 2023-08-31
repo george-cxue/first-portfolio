@@ -8,7 +8,11 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-body {
+.white-icon {
+  filter: brightness(0.1) invert(1);
+}
+
+/* body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -16,7 +20,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
 
 /* @font-face {
   font-family: "tiempos";

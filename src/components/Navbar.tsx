@@ -15,9 +15,6 @@ const NAV_ITEMS = {
   '/gallery': {
     name: 'gallery',
   },
-  'https://docs.google.com/document/d/1UGFBbqUGRqgFB8if1spnoisrzXtD7AhU0whOEoBUx-k/edit?usp=sharing': {
-    name: 'resume',
-  },
 };
 
 function Navbar() {

@@ -12,7 +12,6 @@ import github from 'public/media/icons/github.svg';
 import instagram from 'public/media/icons/instagram.svg';
 import linkedin from 'public/media/icons/linkedin.svg';
 import spotify from 'public/media/icons/spotify.svg';
-import youtube from 'public/media/icons/youtube.svg';
 
 function Home() {
   return (
